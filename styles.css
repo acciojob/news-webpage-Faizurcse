@@ -4,15 +4,18 @@
 }
 .header{
 	background-color: #011e29;
-	color:white;
-	padding:20px;
 	text-align:center;
+	padding:10px;
 }
 .latest-news-section{
-	padding:80px;
+	padding:10px;
+	width:100%;
 	background-color:white;
-	width:8px;
 	border-radius:5px;
-	
-	
+}
+
+.pictorial-news-section{
+	background-color:white;
+	text-align:center;
+	border-radius:5px;
 }
